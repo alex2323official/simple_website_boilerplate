@@ -11,7 +11,7 @@ Custom CSS Reset
 }
 
 html {
-  font-size: 10px; /* REM SETUP: 1rem = 10 px */
+  font-size: 62.5%; /* REM SETUP: 1rem = 10 px */
 }
 
 body {
