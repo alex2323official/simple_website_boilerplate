@@ -1,7 +1,13 @@
+/* VARIABLES */
 :root {
   --blue: #1e90ff;
   --white: #ffffff;
 }
 
-/* To use variable:  */
-/* color: var(--blue); */
+/*    =>  to use variable:  */
+/*    =>  color: var(--blue); */
+
+/* FONTS */
+
+/*    =>  download fonts and make fonts-kit by combining it here:
+      =>  https://www.fontsquirrel.com/tools/webfont-generator */
